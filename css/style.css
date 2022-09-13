@@ -36,6 +36,7 @@ header img{
 
 
 .bottoni{
+    box-sizing: border-box;
     height: 50px;
     padding-left: 60px;
     padding-top: 15px;
@@ -44,9 +45,11 @@ header img{
 
 #bottone1{
     border-radius: 15%;
+    border: solid grey rgb(103, 184, 255);
     color: white;
     background-color: rgb(103, 184, 255);
     padding: 5px;
+    
     
 }
 
@@ -84,7 +87,7 @@ p::before{
 
 
 .editorial{
-    border-radius: 30%;
+    border-radius: 40%;
     background-color: rgb(103, 184, 255);
     color: white;
     padding: 5px; 
@@ -96,7 +99,7 @@ p::before{
 
 
 .q1{
-    border-radius: 30%;
+    border-radius: 40%;
     color: white;
     background-color: rgb(121, 10, 84);
     padding: 5px;
@@ -116,7 +119,7 @@ p::before{
 }
 
 .recruiting{
-    border-radius: 30%;
+    border-radius: 40%;
     color: white;
     background-color:#21A968;
     padding: 5px; 
@@ -126,7 +129,7 @@ p::before{
 }
 
 .mobile{
-    border-radius: 30%;
+    border-radius: 40%;
     color: white;
     background-color:orange;
     padding: 5px; 
@@ -136,7 +139,7 @@ p::before{
 }
 
 .website{
-    border-radius: 30%;
+    border-radius: 40%;
     color: white;
     background-color:pink;
     padding: 5px; 
@@ -146,7 +149,7 @@ p::before{
 }
 
 .sales{
-    border-radius: 30%;
+    border-radius: 40%;
     color: white;
     background-color:greenyellow;
     padding: 5px; 
