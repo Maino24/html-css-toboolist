@@ -64,4 +64,19 @@ header img{
 
 h2::before{
     content: '\2BC6';
+    
+}
+
+p::before{
+    border: solid black 1px;
+    border-radius: 50% ;
+    content: '\2713'; 
+
+}
+
+.editorial{
+    border-radius: 15%;
+    color: white;
+    background-color: rgb(103, 184, 255);
+    padding: 2px; 
 }
