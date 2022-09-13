@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+html{
+    background-color: lightgray;
+}
+
+header{
+    background-color: white;
+}
+
 .padding-header{
     padding: 20px;
 }
@@ -15,4 +23,17 @@ header img{
 #titolo{
     font-size: 40px;
     vertical-align: middle;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    margin-top: 40px;
+}
+
+
+.bottoni{
+    height: 50px;
+    
 }
