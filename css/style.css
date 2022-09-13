@@ -54,3 +54,13 @@ header img{
     padding: 5px;
     
 }
+
+
+
+.new-task{
+    padding-left: 60px;
+}
+
+h2 ::before{
+    content: "&#11206";
+}
