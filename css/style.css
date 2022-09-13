@@ -4,7 +4,15 @@
     box-sizing: border-box;
 }
 
+.padding-header{
+    padding: 20px;
+}
 
-header{
-    
+header img{
+    vertical-align: middle;
+}
+
+#titolo{
+    font-size: 40px;
+    vertical-align: middle;
 }
