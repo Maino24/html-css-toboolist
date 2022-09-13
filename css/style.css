@@ -59,8 +59,9 @@ header img{
 
 .new-task{
     padding-left: 60px;
+    margin-top: 30px;
 }
 
-h2 ::before{
-    content: "&#11206";
+h2::before{
+    content: '\2BC6';
 }
