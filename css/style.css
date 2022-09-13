@@ -26,7 +26,7 @@ header img{
 }
 
 .container{
-    width: 80%;
+    width: 50%;
     margin: auto;
     background-color: white;
     margin-top: 40px;
@@ -35,5 +35,22 @@ header img{
 
 .bottoni{
     height: 50px;
+    padding-left: 60px;
+    padding-top: 15px;
+}
+
+#bottone1{
+    border-radius: 15%;
+    color: white;
+    background-color: rgb(4, 73, 133);
+    padding: 5px;
+    
+}
+
+#bottone2{
+    border: solid grey 0.5px;
+    border-radius: 15%;
+    color: grey;
+    padding: 5px;
     
 }
