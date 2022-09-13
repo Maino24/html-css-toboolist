@@ -30,6 +30,8 @@ header img{
     margin: auto;
     background-color: white;
     margin-top: 40px;
+    padding-bottom: 60px;
+    
 }
 
 
@@ -37,12 +39,13 @@ header img{
     height: 50px;
     padding-left: 60px;
     padding-top: 15px;
+    border-bottom: solid lightgray 1px;
 }
 
 #bottone1{
     border-radius: 15%;
     color: white;
-    background-color: rgb(4, 73, 133);
+    background-color: rgb(103, 184, 255);
     padding: 5px;
     
 }
@@ -61,7 +64,8 @@ header img{
 
 .new-task{
     padding-left: 60px;
-    margin-top: 30px;
+    margin-top: 20px;
+    padding-bottom: 5px;
 }
 
 h2::before{
@@ -78,14 +82,16 @@ p::before{
 
 }
 
+
 .editorial{
     border-radius: 30%;
-    color: white;
     background-color: rgb(103, 184, 255);
+    color: white;
     padding: 5px; 
     vertical-align: middle;
+    font-size: 10px;
     font-size: small;
-    
+
 }
 
 
@@ -102,7 +108,7 @@ p::before{
     padding-top: 10px;
 }
 
- p::before{
+ .simbolo2::before{
     border: solid red 2px;
     border-radius: 80% ;
     content: '\2716'; 
