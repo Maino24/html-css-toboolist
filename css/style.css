@@ -48,20 +48,21 @@ header img{
 }
 
 #bottone1{
-    border-radius: 15%;
-    border: solid grey rgb(103, 184, 255);
+    border-radius: 10px;
+    border: 0;
     color: white;
-    background-color: rgb(103, 184, 255);
-    padding: 5px;
+    background-color: #14AAF5;
+    border: solid #14AAF5 0.5px;
+    padding: 6px;
     
     
 }
 
 #bottone2{
     border: solid grey 0.5px;
-    border-radius: 15%;
+    border-radius: 10px;
     color: grey;
-    padding: 5px;
+    padding: 6px;
     
 }
 
