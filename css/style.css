@@ -83,8 +83,8 @@ h2::before{
 
 p::before{
     border: solid lightgreen 2px;
-    border-radius: 80% ;
-    content: '\2713'; 
+    border-radius: 50% ;
+    content: '\2714'; 
     color: rgb(51, 194, 51);
     
 
@@ -118,7 +118,7 @@ p::before{
 
  .simbolo2::before{
     border: solid red 2px;
-    border-radius: 80% ;
+    border-radius: 50% ;
     content: '\2716'; 
     color: rgb(200, 58, 58);
 }
