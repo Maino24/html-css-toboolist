@@ -92,10 +92,10 @@ p::before{
 
 
 .editorial{
-    border-radius: 40%;
+    border-radius: 20px;
     background-color: #14AAF5;
     color: white;
-    padding: 5px; 
+    padding: 4px  8px; 
     vertical-align: middle;
     font-size: 10px;
     font-size: small;
@@ -104,10 +104,10 @@ p::before{
 
 
 .q1{
-    border-radius: 40%;
+    border-radius: 20px;
     color: white;
     background-color: rgb(121, 10, 84);
-    padding: 5px;
+    padding: 4px  8px;
     vertical-align: middle;
     font-size: small;
 }
@@ -124,40 +124,40 @@ p::before{
 }
 
 .recruiting{
-    border-radius: 40%;
+    border-radius: 20px;
     color: white;
     background-color:#21A968;
-    padding: 5px; 
+    padding: 4px  8px; 
     vertical-align: middle;
     font-size: small;
         
 }
 
 .mobile{
-    border-radius: 40%;
+    border-radius: 20px;
     color: white;
     background-color:orange;
-    padding: 5px; 
+    padding: 4px  8px; 
     vertical-align: middle;
     font-size: small;
             
 }
 
 .website{
-    border-radius: 40%;
+    border-radius: 20px;
     color: white;
     background-color:pink;
-    padding: 5px; 
+    padding: 4px  8px;  
     vertical-align: middle;
     font-size: small;
             
 }
 
 .sales{
-    border-radius: 40%;
+    border-radius: 20px;
     color: white;
     background-color:greenyellow;
-    padding: 5px; 
+    padding: 4px  8px; 
     vertical-align: middle;
     font-size: small;
 }
